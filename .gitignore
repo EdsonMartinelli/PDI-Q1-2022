@@ -1,0 +1,6 @@
+teste/
+
+*.png
+*.jpg
+!assets/*.png
+!assets/*.jpg
